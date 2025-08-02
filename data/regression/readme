@@ -1,0 +1,5 @@
+##########文件说明###########
+SH2_R24_SUM_fre_regression：计算log(ratio)后的R24两轮中的序列数据
+SH2_R24_SUM_fre_regression_balance：平衡后的回归数据（log(ratio) > 0 的序列数量 = log(ratio) <= 0 的序列数量）
+SH2_R24_SUM_fre_regression_balance_train：回归模型的训练所用数据
+SH2_R24_SUM_fre_regression_balance_test：回归模型的独立测试所用数据
